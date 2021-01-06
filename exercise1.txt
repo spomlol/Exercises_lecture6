@@ -1,0 +1,7 @@
+mkdir exercises
+cd exercises
+git init
+git remote add origin https://github.com/spomlol/Exercises_lecture6.git
+git add exercise1.txt
+git commit -m "Added exercise1.txt"
+git push -u origin master
