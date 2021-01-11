@@ -12,4 +12,3 @@ Patient(*patientNo*, patientName)
 Appointment(*staffNo*, *appDate*, *appTime*, patientNo, surgeryNo)
 BCNF:
 =3NF
-file
